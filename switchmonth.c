@@ -1,3 +1,6 @@
+/*write a program findout month number and per month day display result,
+operation addition,subtraction,multiplication,division us in switch statements*/
+
 #include<stdio.h>
 void main()
 {
@@ -50,4 +53,5 @@ void main()
     }
     
     
+
 } 
